@@ -1,0 +1,7 @@
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\obj\x86\Debug\Assignment1.csprojResolveAssemblyReference.cache
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\bin\Debug\sws_vocabulary.ttl
+J:\UniWien\00_a_Edinburgh_Sem2\03_SemanticWeb\Assignment1\Assignment1\bin\Debug\Assignment1.json
